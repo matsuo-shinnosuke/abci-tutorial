@@ -12,5 +12,5 @@ pip install -r requirements.txt
 ```
 ## Job Exection
 ```
-qsub -g {ABCIアカウント名} run.sh
+qsub -g gcf51214 run.sh
 ```
