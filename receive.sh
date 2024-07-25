@@ -1,0 +1,1 @@
+rsync -avr --bwlimit=10000 abci:/home/acf15774yh/abci-tutorial/result/ ./result/

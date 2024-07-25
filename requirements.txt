@@ -1,0 +1,8 @@
+numpy
+matplotlib 
+opencv-python 
+scikit-learn
+seaborn
+scipy
+tqdm
+autopep8
